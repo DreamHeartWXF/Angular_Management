@@ -4,8 +4,11 @@
 >** 注意：**由于本项目是采用modjs进行模块化的，需要fis3配合并且打包才能实现，static是打包后的文件。文件运行时加载这里面的文件
 ## 预览
 <div style="height:450px;float:left;"><img src="http://i.imgur.com/LFr5VPk.png" style="width:200px; " /></div>
+
 <div style="height:450px;float:left;"><img src="http://i.imgur.com/cU9isRT.png"  style="width:200px;" /></div>
+
 <div style="height:450px;float:left;"><img src="http://i.imgur.com/JNrUF6E.png!"  style="width:200px;" /></div>
+
 <div style="height:450px;float:left;"><img src="http://i.imgur.com/75a1O53.png!"  style="width:200px;" /></div>
 
 
